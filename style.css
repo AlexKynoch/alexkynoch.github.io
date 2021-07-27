@@ -1,0 +1,16 @@
+body {
+  background-color: crimson;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+  font-family: "Comic Sans MS";
+}
+
+p {
+  background-color: lightgreen;
+  border-style: solid;
+  border-width: 4px;
+  font-family: Arial;
+}
