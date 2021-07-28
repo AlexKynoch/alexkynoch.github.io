@@ -1,38 +1,40 @@
 #container {
   width: 800px;
   height: 600px;
-  /* background-color: orange; */
+  background-color: orange;
 }
 
 #header {
-  width: 760px;
+  width: 800px;
   height: 100px;
-  /* background-color: blue; */
-  margin: 20px;
+  background-color: blue;
+  /* margin: 20px; */
+  text-align: center;
 }
 
 #panel1 {
-  width: 100px;
+  width: 200px;
   height: 400px;
   float: left;
-  /* background-color: pink; */
+  background-color: pink;
 }
 #panel2 {
-  width: 100px;
+  width: 200px;
   height: 400px;
   float: right;
-  /* background-color: red; */
+  background-color: lime;
 }
 
 #bodycontent {
-  width: 600px;
+  width: 400px;
   height: 400px;
   float: left;
-  /* background-color: yellow; */
+  background-color: yellow;
 }
 
 #footer {
   width: 800px;
-  height: 50px;
+  height: 100px;
   background-color: crimson;
+  float: left;
 }
